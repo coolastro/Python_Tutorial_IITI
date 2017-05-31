@@ -13,15 +13,14 @@ Lectures >
    c. Introducing Numpy 
 
 2. Mastering Matplotlib
-   a. Playing with Numpy arrays
+  
+   a. Figure, axis and subplots.
    
-   b. Figure, axis and subplots.
+   b. Tinkering with figure
    
-   c. Tinkering with figure
+   c. Artist and Animation.
    
-   d. Artist and Animation.
-   
-   e. 3D Plotting with Matplotlib.
+   d. 3D Plotting with Matplotlib.
 
 3. I/O Methods with Python
    
