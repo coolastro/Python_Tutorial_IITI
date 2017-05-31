@@ -4,10 +4,10 @@ A short crash course for beginners in Python conducted for PhD Students at IIT I
 The tutorial is done with Python 2.7.12 and Jupyter Notebook. 
 
 Lectures >
-1. Getting Started with Python Programming
-   a. Object Oriented Programming
-   b. Basic data strutures in Python
-   c. Introducing Numpy
+1. Getting Started with Python Programming \n
+   a. Object Oriented Programming \n
+   b. Basic data strutures in Python \n
+   c. Introducing Numpy \n
 
 2. Mastering Matplotlib
    a. Playing with Numpy arrays
