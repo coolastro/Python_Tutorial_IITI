@@ -49,7 +49,9 @@ Lectures >
    
    b. Project Development and Documentation
 
-   c. ??
+   c. Parallel IPython
+  
+   d. ??
 
 
 LIBRARIES USED WITH VERSIONS:
