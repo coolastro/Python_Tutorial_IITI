@@ -9,49 +9,52 @@ Lectures >
 
 1. Getting Started with Python Programming
  
-   a. Object Oriented Programming 
+   a. What is Python - Comparison with other languages 
 
    b. Python Package Installer
 
    c. Basic data strutures in Python 
      
-   d. Introducing Numpy
+   d. Python functions, Conditional statements, etc.
 
-2. Mastering Matplotlib
+   e. Class in Python : Objected Oriented Programming.
+
+2. Numpy & Matplotlib
   
-   a. Figure, axis and subplots.
-   
-   b. Tinkering with figure
-   
-   c. Artist and Animation.
-   
-   d. 3D Plotting with Matplotlib.
+   a. Introducing Numpy arrays
 
+   b. Random Number and Curve Fitting with Numpy
+
+   c. Figure, axis and subplots.
+    
+   d. Artist and Animation.
+   
 3. I/O Methods with Python
    
    a. Read/Write in Python
    
-   b. Numpy loadtxt
-   
-   c. Introducing Pandas and CSV.
+   b. Introducing Pandas and CSV.
+
+   c. Reading FITS file, IDL files with Python
 
 4. First Steps in Data Science with Scikit learn
    
-   a. Introducing Scipy and Scikit Learn
+   a. Scipy and Scikit Learn
 
    b. Linear Regression
    
    c. Classification
 
 5. Auxillary Topics on Demand. 
-   
-   a. Differences between Python 2 and 3.
-   
-   b. Project Development and Documentation
 
-   c. Parallel IPython
+   a. Whatever remains !
+   
+   b. Differences between Python 2 and 3.
+   
+   c. Project Development and Documentation
+
+   d. Parallel IPython
   
-   d. ??
 
 
 LIBRARIES USED WITH VERSIONS:
