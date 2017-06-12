@@ -3,7 +3,7 @@ A short crash course of basics in Python conducted for PhD Students at IIT Indor
 The tutorial uses Python 2.7.12 and Jupyter Notebook. 
 
 TENTATIVE DATES : 12/06/2017 to 16/06/2017  
-TENTATIVE TIME  : 4:00 pm - 5:00 pm 
+TENTATIVE TIME  : 3:00 pm - 4:00 pm 
 
 Lectures >
 
@@ -17,11 +17,9 @@ Lectures >
      
    d. Python functions, Conditional statements, etc.
 
-   e. Class in Python : Objected Oriented Programming.
-
 2. Numpy & Matplotlib
   
-   a. Introducing Numpy arrays
+   a. Introducing Numpy arrays : Slicing, reduction, broadcasting.
 
    b. Random Number and Curve Fitting with Numpy
 
@@ -36,6 +34,8 @@ Lectures >
    b. Introducing Pandas and CSV.
 
    c. Reading FITS file, IDL files with Python
+
+   d. Class in Python
 
 4. First Steps in Data Science with Scikit learn
    
